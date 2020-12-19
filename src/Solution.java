@@ -19,5 +19,7 @@ public class Solution{
     }
     //by minghsin
     // another thing made by minghsin
+    //by feiting
+
 
 }
