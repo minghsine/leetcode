@@ -5,6 +5,8 @@ public class Solution{
         System.out.println(b);
         //update by minghsin
         System.out.println("hello,world");
+
+        System.out.println("today is a good day!");
         System.out.println("hello,world");
         System.out.println("hello,world");
         aa();
