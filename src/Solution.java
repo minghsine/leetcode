@@ -3,6 +3,10 @@ public class Solution{
         int a=1;
         int b=a+1;
         System.out.println(b);
+
+        //add something to dev
+
+
         //update by minghsin
         System.out.println("hello,world");
 
