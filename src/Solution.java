@@ -19,7 +19,8 @@ public class Solution{
     }
     //by minghsin
     // another thing made by minghsin
-//another thing made by minghsin
+    //another thing made by minghsin
+    // another thing made by  feiting
     //by feiting
 
 
